@@ -1,0 +1,13 @@
+int32 Id_number
+float64 pose_utm_x
+float64 pose_utm_y
+float64 local_x
+float64 local_y
+float64 utm_x
+float64 utm_y
+float64 v_x
+float64 v_y
+float64 v_x_relative
+float64 v_y_relative
+float64 lon
+float64 lat

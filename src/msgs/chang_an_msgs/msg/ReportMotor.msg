@@ -1,0 +1,9 @@
+float64 torque
+float64 current
+uint8 heart_beat
+uint8 state
+uint8 direction
+uint16 speed
+uint16 input_volt
+uint8 fault_grade
+uint8 fault_code

@@ -1,0 +1,12 @@
+Header header
+float32 ogmwidth
+float32 ogmheight
+int16 vehicle_x
+int16 vehicle_y
+float32 rectangle_minx
+float32 rectangle_maxx
+float32 rectangle_miny
+float32 rectangle_maxy
+float32 slopeupdegree
+float32 slopedowndegree
+bool vehiclepositionflag

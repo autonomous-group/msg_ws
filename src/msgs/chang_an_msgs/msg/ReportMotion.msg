@@ -1,0 +1,4 @@
+uint8 vehcile_variant_enable
+uint8 vehcile_gear
+uint8 wheel_base_tread_vrnt_allwd
+float64 vehcile_velocity_actual

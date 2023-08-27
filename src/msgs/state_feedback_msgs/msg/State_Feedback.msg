@@ -1,0 +1,8 @@
+bool collision_done
+bool collision_warning
+bool path_planning_state
+bool turn_around_allowed
+bool kept_away_ref_path
+bool forward_backward
+float64 dis_vel_to_path
+float64 dis_vel_to_obs

@@ -1,0 +1,3 @@
+bool parking
+int32 headingFlag
+float32 parkingdistance
